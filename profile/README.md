@@ -1,9 +1,15 @@
-# Wecker Tech s.r.o.
+# Wecker
 
-![Wecker Logo](https://github.com/weckertech/.github/assets/72889112/481e92c5-613f-4070-9126-9fa8c62322d6)
+Advanced software solutions for e-commerce. We specialize in online marketplaces such as Amazon.com.
 
-## Products
+![Wecker Logo](https://selinapp.com/wecker-logo-wide.svg)
 
-### SELIN
+## Portfolio
 
-![SELIN Logo](https://github.com/weckertech/.github/assets/72889112/143b1fbc-b66e-48b7-a7c8-26c7e496dbfd)
+### Selin
+
+We're the company behind Selin, the go-to analytics and reporting tool for Amazon resellers.
+
+[selinapp.com](https://selinapp.com/)
+
+![Selin Logo](https://selinapp.com/selin-logo-wide.svg)
