@@ -1,10 +1,8 @@
-# Wecker
+# selinapp.com
 
 Advanced software solutions for e-commerce. We specialize in online marketplaces such as Amazon.com.
 
-![Wecker Logo](https://selinapp.com/wecker-logo-wide.svg)
-
-## Portfolio
+## Solutions
 
 ### Selin
 
